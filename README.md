@@ -30,7 +30,7 @@ To run the application as a Docker container, execute the following command:
 docker run -it --name calculator-container java-calculator
 ```
 
-## Executing the container 
+## Executing the Container 
 
 To execute the container :
 ```bash
