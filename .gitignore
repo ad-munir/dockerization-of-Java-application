@@ -1,0 +1,32 @@
+# Compiled Java class files
+*.class
+
+# Maven build directory
+target/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+/nbproject/private/
+/build/
+/nbdist/
+/.nb-gradle/
+
+# VS Code files
+.vscode/
+
+# Mac OS specific file
+.DS_Store
+
+# Compiled output of Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# Compiled output of Maven in src/main/ and src/test/ directories
+!**/src/main/**/target/
+!**/src/test/**/target/
