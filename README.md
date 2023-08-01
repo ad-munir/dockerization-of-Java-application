@@ -22,11 +22,15 @@ To build the Docker image for the Java calculator, run the following command:
 docker build -t java-calculator .
 ```
 
-To run the Java calculator as a Docker container, execute the following command:
+## Running the Calculator as a Docker Container
+
+To run the application as a Docker container, execute the following command:
 
 ```bash
 docker run -it --name calculator-container java-calculator
 ```
+
+## Executing the container 
 
 To execute the container :
 ```bash
